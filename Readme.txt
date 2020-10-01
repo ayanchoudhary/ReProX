@@ -1,1 +1,1 @@
-open the uporject file with the UE4 using VR
+Open the uproject file with the UE4 using VR
